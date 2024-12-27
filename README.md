@@ -1,0 +1,2 @@
+# School_Management_System_in_Java
+ This project is a Java-based application designed to manage and organize data for a school. It includes functionality for administrators, teachers, and students, providing a user-friendly graphical interface developed with Swing. The system interacts with a MySQL relational database using JDBC and follows the Model-View-Controller (MVC) architectural pattern along with the Data Access Object (DAO) design for data management.
