@@ -1,4 +1,4 @@
-# 🎓 School Management System - Java Swing & MySQL
+# 🎓 School Management System - Java Swing & MySQL 
 
 Projet de gestion d'école développé dans le cadre du module **Programmation Orientée Objet** à l'Université pour l'année universitaire 2023-2024.
 
